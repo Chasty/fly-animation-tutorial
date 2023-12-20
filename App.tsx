@@ -25,6 +25,7 @@ export default function App() {
           </View>
         </View>
 
+        {/* Added a 2nd comment */}
         <View style={[styles.column]}></View>
 
         <View style={[styles.column]}>
