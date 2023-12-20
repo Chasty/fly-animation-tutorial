@@ -5,6 +5,7 @@ import { RedView } from './RedView'
 import TargetPositionProvider from './context/position'
 
 export default function App() {
+  // Add a comment
   return (
     <TargetPositionProvider>
       <View style={styles.container}>
